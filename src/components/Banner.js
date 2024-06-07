@@ -11,7 +11,7 @@ const Banner = () => {
           <Button variant="success">Shop Now</Button>
         </Col>
         <Col md={6}>
-          <img src="path-to-image" alt="Food Image" className="img-fluid rounded-circle" />
+          <img src="path-to-image" className="img-fluid rounded-circle" />
         </Col>
       </Row>
     </Container>
